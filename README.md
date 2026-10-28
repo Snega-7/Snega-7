@@ -205,11 +205,11 @@ SJSMV College, Coimbatore
 ## 🤝 Let's Connect
 
 <p>
-<a href="https://linkedin.com/in/snegan-p-455316282">
+<a href="https://linkedin.com/in/snegam07">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Snegan-P">
+<a href="https://github.com/Snega-7">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
